@@ -1,8 +1,8 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+[//]: # (![App Brewery Banner]&#40;https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png&#41;)
 
 #Flutter_Card
 
-## What you will create
+## About
 It's a personal business card. 
 
 ## Description
