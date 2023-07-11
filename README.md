@@ -1,7 +1,7 @@
 [//]: # (![App Brewery Banner]&#40;https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png&#41;)
 
 ## Flutter_Card_UI
-<img src="screens/profile.jpeg" width=250>
+<img src="" width=250>
 
 ## About
 It's a personal business card. 
